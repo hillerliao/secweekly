@@ -1,0 +1,15 @@
+{
+    "name": "secweekly",
+    "yuqueConfig": {
+      "postPath": "docs",
+      "cachePath": "yuque.json",
+      "mdNameFormat": "title",
+      "adapter": "hexo",
+      "concurrency": 5,
+      "baseUrl": "https://www.yuque.com/api/v2",
+      "login": "securities",
+      "repo": "secweekly",
+      "onlyPublished": true,
+      "onlyPublic": true
+    }
+  }
